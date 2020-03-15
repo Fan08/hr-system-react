@@ -1,0 +1,25 @@
+{
+  "name": "root",
+  "inode": "1",
+  "children": [
+    {
+      "name": "a",
+      "inode": "2"
+    },
+    {
+      "name": "a_2",
+      "inode": "3"
+    },
+    {
+      "name": "b",
+      "inode": "4",
+      "children": [{
+        "name": "b_1",
+        "inode": "5",
+        "children": [{
+          "name": "file_6",
+          "inode": "6"
+        }]
+      }]
+    }]
+}

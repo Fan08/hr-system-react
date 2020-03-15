@@ -1,0 +1,6 @@
+export const TASK_LIST_VISIBLE='task_management/TASK_LIST_VISIBLE'
+export const FATHER_TASK_INFORMATION_VISIBLE ='task_management/FATHER_TASK_INFORMATION_VISIBLE'
+export const SON_TASK_INFORMATION_VISIBLE ='task_management/SON_TASK_INFORMATION_VISIBLE'
+export const SUBMIT_TASK_LIST ='task_management/SUBMIT_TASK_LIST'
+export const EDIT_TASK_VISIBLE='task_management/EDIT_TASK_VISIBLE'
+export const TASK_LIST='task_management/TASK_LIST'

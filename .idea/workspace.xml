@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae174610-8e0b-42b6-b30e-1a8409138f0d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UPsfdJJyYhOzxG2CtSjSZekGUu" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="D:\WebStorm 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\HR系统\hr_system_with_redux\src\components\organization_management\add_child_organization" />
+      <recent name="F:\HR系统\hr_system_with_redux\src\components\staff_management\edit_personal_information" />
+      <recent name="F:\HR系统\hr_system_with_redux\src\components\staff_management\staff_home" />
+      <recent name="F:\HR系统\hr_system_with_redux\src\components\organization_management\organization_home" />
+      <recent name="F:\HR系统\hr_system_with_redux\src\components\common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\HR系统\hr_system_with_redux\src\components\working_hours_management\review_working_hours" />
+      <recent name="F:\HR系统\hr_system_with_redux\src\components\working_hours_management" />
+      <recent name="F:\HR系统\hr_system_with_redux\src\components\working_hours_management\working_hours_record" />
+      <recent name="F:\HR系统\hr_system_with_redux\src\components\staff_management" />
+      <recent name="F:\HR系统\hr_system_with_redux\src\components\staff_management\edit_personal_information" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae174610-8e0b-42b6-b30e-1a8409138f0d" name="Default Changelist" comment="" />
+      <created>1575269669021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575269669021</updated>
+      <workItem from="1575269672040" duration="565000" />
+      <workItem from="1575270656152" duration="10585000" />
+      <workItem from="1576137085343" duration="438000" />
+      <workItem from="1576137553080" duration="282000" />
+      <workItem from="1576199750158" duration="25593000" />
+      <workItem from="1576730266824" duration="17713000" />
+      <workItem from="1576806968072" duration="19164000" />
+      <workItem from="1576914434239" duration="9889000" />
+      <workItem from="1576984736109" duration="4486000" />
+      <workItem from="1577003176942" duration="5527000" />
+      <workItem from="1577066642852" duration="18208000" />
+      <workItem from="1577166223622" duration="2000" />
+      <workItem from="1577166299179" duration="19847000" />
+      <workItem from="1577249617989" duration="13090000" />
+      <workItem from="1577271770813" duration="1536000" />
+      <workItem from="1577334827565" duration="15915000" />
+      <workItem from="1577416191164" duration="18472000" />
+      <workItem from="1577494675290" duration="13702000" />
+      <workItem from="1578112631769" duration="8502000" />
+      <workItem from="1578278315015" duration="16526000" />
+      <workItem from="1578325062106" duration="3723000" />
+      <workItem from="1578358502856" duration="1870000" />
+      <workItem from="1578377040846" duration="9844000" />
+      <workItem from="1578457599151" duration="17124000" />
+      <workItem from="1578533296122" duration="20447000" />
+      <workItem from="1578719708144" duration="9783000" />
+      <workItem from="1579088050066" duration="607000" />
+      <workItem from="1579588846470" duration="166000" />
+      <workItem from="1579602268319" duration="505000" />
+      <workItem from="1580646872599" duration="615000" />
+      <workItem from="1583913419217" duration="821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+</project>
