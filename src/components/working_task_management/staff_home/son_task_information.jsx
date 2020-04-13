@@ -1,8 +1,10 @@
 /*
  * @Descripttion: 点击子任务以弹窗的形式展示任务信息
- * @version:
+ * @version: 
  * @Author: 马林谦
- * @Date: 2020-03-15
+ * @Date: 2020-03-15 15:52:15
+ * @LastEditors: 唐帆
+ * @LastEditTime: 2020-03-15 20:25:12
  */
 import React, {Component} from "react";
 import {connect} from "react-redux"

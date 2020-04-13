@@ -1,3 +1,11 @@
+/*
+ * @Descripttion: 
+ * @version: 
+ * @Author: 马林谦
+ * @Date: 2020-03-15 15:52:15
+ * @LastEditors: 唐帆
+ * @LastEditTime: 2020-03-15 20:24:26
+ */
 import React,{Component} from 'react';
 import {connect} from 'react-redux'
 

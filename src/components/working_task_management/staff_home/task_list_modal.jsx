@@ -1,3 +1,11 @@
+/*
+ * @Descripttion: 
+ * @version: 
+ * @Author: 马林谦
+ * @Date: 2020-03-15 15:52:15
+ * @LastEditors: 唐帆
+ * @LastEditTime: 2020-03-15 20:23:55
+ */
 import React,{Component} from 'react';
 import {Button, Modal} from 'antd'
 import {connect} from 'react-redux'

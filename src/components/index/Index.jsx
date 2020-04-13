@@ -1,4 +1,4 @@
-import React, { Component } from 'react'; 
+import React, { Component } from 'react';
 import BreadcrumbCustom from '../common/BreadcrumbCustom';
 // import {Row, Col} from 'antd';
 import './index.less';
@@ -13,18 +13,17 @@ export default class MIndex extends Component {
     //     }
     // }
 
-    componentDidMount(){
+    componentDidMount() {
 
     }
 
     render() {
         return (
             <div>
-                <BreadcrumbCustom paths={['首页']}/>
-                首页测试
-                <SubmitWorkingTask/>
+                {/* <BreadcrumbCustom paths={['首页']} /> */}
+                {/* 首页测试 */}
+                <SubmitWorkingTask />
             </div>
         )
     }
 }
-   
